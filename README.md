@@ -1,4 +1,4 @@
-# Belief-Revision-Agent-02180
+# Belief-Revision-Agent
 
 Implementation of a Belief Revision Agent for propositional logic, developed for the DTU course **02180 – Introduction to Artificial Intelligence**.  
 The project implements the AGM framework, including CNF transformation, resolution-based entailment checking, partial meet contraction with priorities, and expansion.  
